@@ -10,3 +10,8 @@
 .navbar .navbar-collapse {
   text-align: center;
 }
+
+#img-logo a{
+      float: left;
+      margin-left: 100px;
+}
